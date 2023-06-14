@@ -65,7 +65,7 @@ export default function Home({ navigation }) {
                             style={{ marginVertical: 20, marginHorizontal: 20  }}
                             onPress={() => Editar(item)}
                             >
-                            <MaterialIcons name="miscellaneous-services" size={26} color="#808080" />
+                            <MaterialIcons name="edit" size={26} color="#808080" />
                             </TouchableOpacity>
                         </View>
                     </View>
